@@ -1,0 +1,29 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "nombre": "Inicio",
+        "enlace": "/inicio"
+      },
+      {
+        "id": 2,
+        "nombre": "Cuentas",
+        "enlace": "/cuentas"
+      },
+      {
+        "id": 3,
+        "nombre": "Préstamos",
+        "enlace": "/prestamos"
+      },
+      {
+        "id": 4,
+        "nombre": "Inversiones",
+        "enlace": "/inversiones"
+      },
+      {
+        "id": 5,
+        "nombre": "Contacto",
+        "enlace": "/contacto"
+      }
+    ]
+  }
